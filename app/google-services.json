@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721988193216",
+    "project_id": "food-flux",
+    "storage_bucket": "food-flux.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721988193216:android:823a1c1b41ebb3013f5625",
+        "android_client_info": {
+          "package_name": "com.project.foodflux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2_DopsEMc8RrvjS_EuXx3Z9Bj03DYrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
